@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-adware/static/css/main.abd64e84.css",
+    "main.js": "/react-adware/static/js/main.c52d12fb.js",
+    "index.html": "/react-adware/index.html",
+    "main.abd64e84.css.map": "/react-adware/static/css/main.abd64e84.css.map",
+    "main.c52d12fb.js.map": "/react-adware/static/js/main.c52d12fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.c52d12fb.js"
+  ]
+}
